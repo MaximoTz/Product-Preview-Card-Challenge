@@ -20,8 +20,8 @@ Users must be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repository](https://github.com/MaximoTz/Product-Preview-Card-Challenge)
+- Live Site URL: [Product Preview Card](https://product-preview-card-component-maxdev.netlify.app/)
 
 
 ### Built with
